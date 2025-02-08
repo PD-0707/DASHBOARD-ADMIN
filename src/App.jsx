@@ -4,7 +4,7 @@ import PointsSummary from './components/PointsSummary';
 
 const App = () => {
   return (
-    <div className="bg-[#eaf3ff]"> {/* Light Blue Background */}
+    <div className="bg-[#eaf3ff]"> {}
       <Navbar />
       <PointsSummary />
     </div>
