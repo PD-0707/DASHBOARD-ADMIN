@@ -2,22 +2,22 @@ import React from 'react';
 
 const Navbar = () => {
   return (
-    <header className="bg-[#2d3648] text-white px-6 py-4 flex justify-between items-center">
+    <header className="bg-[#2d3648] text-white px-6 py-2 flex justify-between items-center">
       {}
       <div className="text-lg font-normal">CodeChef VIT-C</div>
 
       {}
       <nav className="flex space-x-6 items-center">
-        <a href="#" className="text-gray-300 hover:text-white border-b-2 border-transparent hover:border-yellow-400 pb-1">
+       <a href="#" className="text-gray-300 hover:text-white border-b-6 border-transparent hover:border-yellow-500 pb-1">
           Dashboard
         </a>
-        <a href="#" className="text-gray-300 hover:text-white border-b-2 border-transparent hover:border-yellow-400 pb-1">
+        <a href="#" className="text-gray-300 hover:text-white border-b-6 border-transparent hover:border-yellow-500 pb-1">
           Leaderboard
         </a>
-        <a href="#" className="text-gray-300 hover:text-white border-b-2 border-transparent hover:border-yellow-400 pb-1">
+        <a href="#" className="text-gray-300 hover:text-white border-b-6 border-transparent hover:border-yellow-500 pb-1">
           Request
         </a>
-        <a href="#" className="text-gray-300 hover:text-white border-b-2 border-transparent hover:border-yellow-400 pb-1">
+        <a href="#" className="text-gray-300 hover:text-white border-b-6 border-transparent hover:border-yellow-500 pb-1">
           Signout
         </a>
 
